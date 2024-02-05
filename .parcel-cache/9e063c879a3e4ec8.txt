@@ -23,7 +23,7 @@
 54C:\Users\Mamatha\Namaste_React\node_modules\base-x\src133514249530511778 1
 82C:\Users\Mamatha\Namaste_React\node_modules\@parcel\transformer-image\package.json133514249565873952 0
 60C:\Users\Mamatha\Namaste_React\node_modules\type-fest\source133514249586689464 1
-43C:\Users\Mamatha\Namaste_React\package.json133514972849831691 0
+43C:\Users\Mamatha\Namaste_React\package.json133514988852005180 0
 74C:\Users\Mamatha\Namaste_React\node_modules\nth-check\lib\compile.d.ts.map133514249549288119 0
 81C:\Users\Mamatha\Namaste_React\node_modules\@swc\helpers\_\_inherits\package.json133514249635154318 0
 54C:\Users\Mamatha\Namaste_React\node_modules\source-map133514249563742982 1
@@ -33,7 +33,7 @@
 85C:\Users\Mamatha\Namaste_React\node_modules\caniuse-lite\data\features\customevent.js133514249635095846 0
 71C:\Users\Mamatha\Namaste_React\node_modules\entities\lib\encode-trie.js133514249541997058 0
 68C:\Users\Mamatha\Namaste_React\node_modules\semver\ranges\outside.js133514249579934292 0
-37C:\Users\Mamatha\Namaste_React\App.js133514475090819088 0
+37C:\Users\Mamatha\Namaste_React\App.js133515811956404502 0
 89C:\Users\Mamatha\Namaste_React\node_modules\lmdb\node_modules\node-addon-api\node_api.gyp133514249575465137 0
 41C:\Users\Mamatha\Namaste_React\.gitignore133514483236256538 0
 65C:\Users\Mamatha\Namaste_React\node_modules\node-addon-api\napi.h133514249561068991 0
@@ -43,7 +43,7 @@
 89C:\Users\Mamatha\Namaste_React\node_modules\@parcel\transformer-postcss\lib\loadConfig.js133514249556675568 0
 71C:\Users\Mamatha\Namaste_React\node_modules\css-tree\lib\lexer\error.js133514249622844068 0
 100C:\Users\Mamatha\Namaste_React\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js.map133514249617617660 0
-35C:\Users\Mamatha\Namaste_React\dist133514482118649335 1
+35C:\Users\Mamatha\Namaste_React\dist133515812090041733 1
 117C:\Users\Mamatha\Namaste_React\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property\font.js133514249580983369 0
 82C:\Users\Mamatha\Namaste_React\node_modules\source-map\lib\source-map-generator.js133514249555054545 0
 57C:\Users\Mamatha\Namaste_React\node_modules\source-map-js133514249563742982 1
@@ -90,7 +90,7 @@
 56C:\Users\Mamatha\Namaste_React\node_modules\browserslist133514249557071005 1
 91C:\Users\Mamatha\Namaste_React\node_modules\entities\lib\generated\decode-data-xml.d.ts.map133514249563428605 0
 80C:\Users\Mamatha\Namaste_React\node_modules\node-addon-api\tools\clang-format.js133514249564347655 0
-41C:\Users\Mamatha\Namaste_React\index.html133514473593126923 0
+41C:\Users\Mamatha\Namaste_React\index.html133514988908385093 0
 82C:\Users\Mamatha\Namaste_React\node_modules\css-tree\lib\syntax\node\MediaQuery.js133514249629594593 0
 90C:\Users\Mamatha\Namaste_React\node_modules\@parcel\core\src\registerCoreWithSerializer.js133514249620717193 0
 77C:\Users\Mamatha\Namaste_React\node_modules\css-tree\lib\syntax\node\index.js133514249628226213 0
@@ -3709,9 +3709,9 @@
 104C:\Users\Mamatha\Namaste_React\node_modules\css-select\node_modules\domutils\lib\esm\manipulation.js.map133514249596577886 0
 97C:\Users\Mamatha\Namaste_React\node_modules\css-select\node_modules\domutils\lib\esm\package.json133514249587022072 0
 70C:\Users\Mamatha\Namaste_React\node_modules\@trysound\sax\package.json133514249527272887 0
-54C:\Users\Mamatha\Namaste_React\dist\index.9e4c6fd2.css133514481108252305 0
+54C:\Users\Mamatha\Namaste_React\dist\index.9e4c6fd2.css133515057983110678 0
 96C:\Users\Mamatha\Namaste_React\node_modules\css-select\node_modules\domutils\lib\esm\querying.js133514249582254993 0
-58C:\Users\Mamatha\Namaste_React\dist\index.9e4c6fd2.css.map133514481108417731 0
+58C:\Users\Mamatha\Namaste_React\dist\index.9e4c6fd2.css.map133515057983519585 0
 100C:\Users\Mamatha\Namaste_React\node_modules\css-select\node_modules\domutils\lib\esm\querying.js.map133514249598670389 0
 99C:\Users\Mamatha\Namaste_React\node_modules\css-select\node_modules\domutils\lib\esm\stringify.d.ts133514249605720078 0
 103C:\Users\Mamatha\Namaste_React\node_modules\css-select\node_modules\domutils\lib\esm\stringify.d.ts.map133514249599746023 0
@@ -5548,7 +5548,7 @@
 114C:\Users\Mamatha\Namaste_React\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeMetadata.js133514249593958290 0
 120C:\Users\Mamatha\Namaste_React\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeOffCanvasPaths.js133514249594850698 0
 118C:\Users\Mamatha\Namaste_React\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeRasterImages.js133514249595216998 0
-53C:\Users\Mamatha\Namaste_React\dist\index.7826abd7.js133514481108352834 0
+53C:\Users\Mamatha\Namaste_React\dist\index.7826abd7.js133515812089752181 0
 111C:\Users\Mamatha\Namaste_React\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeTitle.js133514249596429223 0
 125C:\Users\Mamatha\Namaste_React\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeUnknownsAndDefaults.js133514249596937313 0
 114C:\Users\Mamatha\Namaste_React\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeUnusedNS.js133514249597482957 0
@@ -6036,7 +6036,7 @@
 75C:\Users\Mamatha\Namaste_React\node_modules\.bin\update-browserslist-db.cmd133514249697006192 0
 53C:\Users\Mamatha\Namaste_React\dist\index.6bd02f5a.js133514472248603325 0
 57C:\Users\Mamatha\Namaste_React\dist\index.6bd02f5a.js.map133514472248901818 0
-57C:\Users\Mamatha\Namaste_React\dist\index.7826abd7.js.map133514481108591104 0
+57C:\Users\Mamatha\Namaste_React\dist\index.7826abd7.js.map133515812090012339 0
 54C:\Users\Mamatha\Namaste_React\dist\index.dbda85ef.css133514482118360584 0
 58C:\Users\Mamatha\Namaste_React\dist\index.dbda85ef.css.map133514482118602318 0
-46C:\Users\Mamatha\Namaste_React\dist\index.html133514482118250265 0
+46C:\Users\Mamatha\Namaste_React\dist\index.html133515812089793034 0
