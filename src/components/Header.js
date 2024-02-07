@@ -5,7 +5,7 @@ const Header=()=>{
         <div className='header'>
             <div className='logo-container'> 
                 <img className='logo'
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUo5DfHU-qL49wfX9YfQHfCfkZ57nrJBVVGg&usqp=CAU"/>
+                src={LOGO_URL}/>
              </div>
             <div className='nav-items'>
                 <ul>
